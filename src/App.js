@@ -21,9 +21,9 @@ function App() {
           <Route exact path="/">
             <Home />
           </Route>
-          {/* <Route path="/users">
+          <Route path="/users">
             <UserList />
-          </Route> */}
+          </Route>
           <Route path="/login">
             <Login />
           </Route>
